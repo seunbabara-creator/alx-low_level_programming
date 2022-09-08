@@ -1,4 +1,7 @@
 #include<stdio.h>
+/**
+ * main - Prints a string to the stdoutput
+*/
 int main(void)
 {
 	/* C function that prints out a string*/
