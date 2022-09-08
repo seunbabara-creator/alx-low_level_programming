@@ -2,7 +2,7 @@
 /**
  * main - Prints a string to the stdoutput
  *
- * Return : 0 after the function has been completed
+ *Return: Always 0 (Sucess)
 */
 int main(void)
 {
