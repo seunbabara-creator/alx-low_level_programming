@@ -1,9 +1,13 @@
 #include <stdio.h>
-/*
+
+/**
  * main - Entry point
+ *
+ * Description : Program prints a string
  *
  * Return: Always 0 (Sucess)
  */
+
 int main(void)
 {
 	/*Function that prints out the specified string*/
