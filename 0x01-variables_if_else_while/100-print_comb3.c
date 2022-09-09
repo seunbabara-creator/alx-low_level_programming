@@ -21,7 +21,6 @@ int main(void)
 			
 				if (d == '8' && p == '9')
 					continue;
-
 				putchar(',');
 				putchar(' ');
 			}
