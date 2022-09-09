@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Prints out a random number, checks if the number is positive or negative and then prints a message
- * Retuen : Always 0 (Sucess)
+ * Return : Always 0 (Sucess)
 */
 int main(void)
 {
