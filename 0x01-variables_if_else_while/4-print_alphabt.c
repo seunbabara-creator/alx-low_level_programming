@@ -14,9 +14,9 @@ int main(void)
 	e = 'e';
 	q = 'q';
 
-	for ( exempt = 'a'; exempt <= 'z'; exempt++)
+	for (exempt = 'a'; exempt <= 'z'; exempt++)
 	{
-		if ( exempt != e && exempt != q)
+		if (exempt != e && exempt != q)
 			putchar(exempt);
 	}
 	putchar('\n');
