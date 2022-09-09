@@ -4,8 +4,7 @@
 /**
  * main - prints out a number and message
  *
- * Return : Always 0 (Sucess)
- *
+ * Return : 0 if the function is sucessful
  */
 int main(void)
 {
