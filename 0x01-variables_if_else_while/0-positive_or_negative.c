@@ -4,7 +4,7 @@
 /**
  * main - prints out a number and message
  *
- *Return : Always 0 (Sucess)
+ * Return: Always 0 (Sucess)
  */
 int main(void)
 {
